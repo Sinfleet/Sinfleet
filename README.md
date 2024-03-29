@@ -1,6 +1,6 @@
 # Hello
 
-## Self-Taught Software Developer
+### Self-Taught Software Developer
 
 📖 Currently on the self-taught path to becoming a software developer
 
