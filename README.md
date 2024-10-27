@@ -1,3 +1,3 @@
 # Hello
 
--- *Connect with me on [LinkedIn](https://www.linkedin.com/in/mfaria3d/) (currently not updated)*
+-- *Connect with me on [LinkedIn](https://www.linkedin.com/in/miguelfariavfx/) (currently not updated)*
